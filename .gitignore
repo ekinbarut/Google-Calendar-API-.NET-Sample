@@ -338,3 +338,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/kalekimkey.p12
+/GoogleCalendarAPI/kalekimkey.p12
+/GoogleCalendarAPI/bilkomkey.p12
+/GoogleCalendarAPI/credentials.json
